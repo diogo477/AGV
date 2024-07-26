@@ -1,0 +1,6 @@
+
+
+Gantt: Un cronograma del proyecto que muestre las tareas, fechas límite y responsables.
+Presupuesto: Un presupuesto del proyecto que muestre los costos estimados de los recursos y materiales necesarios
+
+Presupuesto Final:

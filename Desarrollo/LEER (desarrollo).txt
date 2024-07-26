@@ -1,0 +1,1 @@
+En esta carpeta vamos a ir documentando todo lo que tiene que ver con el desarrollo del proyecto, diferenciado por especialidad
