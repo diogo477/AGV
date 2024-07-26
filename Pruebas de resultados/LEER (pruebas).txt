@@ -1,0 +1,5 @@
+En esta carpeta vamos a colocar todo lo referido a pruebas, para tener un registro de lo que vamos probando y no perder informacion 
+
+Electronica: Tenemos un docs donde vamos a poner toda la informacion de las pruebas.
+Mecanica: 
+Prototipo: En la etapa final, vamos a ir agregando las diferentes pruebas que vamos a hacer y si hay que mejorar algo, lo documentaremos aca
